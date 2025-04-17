@@ -1,0 +1,26 @@
+# 🧠 Visão Computacional com Python
+
+🌎 Read this page in [English](README.md)
+
+Este repositório apresenta uma jornada prática e estruturada pela visão computacional com Python — da aquisição da imagem até o treinamento e deploy de modelos de detecção de objetos.
+
+🎯 Para quem é:  
+Qualquer pessoa que queira aprender visão computacional aplicada usando Python e bases de dados reais, com exemplos de código em inglês e português.
+
+## 📚 Conteúdo
+
+1. [Fundamentos da Imagem](01_fundamentos_imagem/)
+2. [Por que trabalhar com imagem](02_mercado_aplicacoes/)
+3. [Qualidade e Diversidade de Dados](03_qualidade_diversidade/)
+4. [Coleta e Anotação de Imagens](04_coleta_anotacao/)
+5. [Leitura e Geração de Imagens](05_leitura_geracao/)
+6. [Validação e Curadoria](06_validacao_curadoria/)
+7. [Treinamento de Modelos](07_treinamento_modelos/)
+8. [Avaliação de Modelos](08_avaliacao_modelos/)
+9. [Deploy e Aplicações Finais](09_deploy/)
+
+Cada seção contém explicações, exemplos práticos e código comentado em inglês e português.
+
+---
+
+🚧 Em construção — sugestões e contribuições são bem-vindas!

@@ -1,6 +1,6 @@
 # 🧠 Computer Vision with Python
 
-🇧🇷 Leia esta página em [português](README_pt.md)
+🇧🇷 Leia esta página em português: [README_pt.md](README_pt.md)
 
 This repository presents a practical and structured journey through computer vision using Python — from image acquisition to training and deploying object detection models.
 
